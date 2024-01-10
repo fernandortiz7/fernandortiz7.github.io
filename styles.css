@@ -213,6 +213,7 @@ li {
     .nav-list {
         justify-content: center;
         padding-right: 0;
+        margin-left: -5%;
     }
     #welcome-section .two {
         max-width: 90vw;
