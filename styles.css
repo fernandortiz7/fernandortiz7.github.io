@@ -186,11 +186,11 @@ li {
     justify-content: space-evenly;
     max-width: 1100px;
 }
-.profile-link {
+#profile-link {
     display: block;
     padding: 10px;
 }
-.profile-link:active {
+#profile-link:active {
     background-color: var(--color-white);
     color: var(--color-accent-blue);
 }
