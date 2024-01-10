@@ -132,9 +132,12 @@ li {
     justify-content: space-evenly;
 }
 
+.project-img, .project-tile-caption {
+    width: 40vw;
+}
+
  .project-img{
     border-radius: 4% 4% 0 0;
-    width: 40vw;
     height: 30vw;
     vertical-align: middle;
     padding-top: 20px;
@@ -218,7 +221,7 @@ li {
         font-size: 2rem;
     } 
     .project-tile-caption {
-        font-size: 2.3rem;
+        font-size: 2rem;
     
     }
     #contact-section {
@@ -260,6 +263,10 @@ li {
     .project-img {
         width: 80vw;
         height: 50vw;
+     }
+     .project-tile-caption{
+        font-size: 2.3rem;
+        width: 80vw;
      }
 
      .project-msg {
