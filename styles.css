@@ -239,6 +239,7 @@ li {
     .contact-list {
         flex-direction: column;
         min-width: none;
+
     }
     .contact-list-links {
         padding-bottom: 10px;
@@ -277,5 +278,9 @@ li {
     #contact-section {
         padding-top: 40%;
         max-height: 63vh;
+    }
+    .contact-list {
+        width: 90vw;
+        margin-left: -5%;
     }
  }
